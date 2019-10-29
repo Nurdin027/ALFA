@@ -1,3 +1,4 @@
+![alfa](https://github.com/Nurdin027/ALFA/blob/master/LOGO%20FACE_r.png)
 # ALFA
 Automation Lock With Face Recognition 
 
@@ -10,7 +11,7 @@ Automation Lock With Face Recognition
 *   Six
 
 ## Persiapan
-  * Download dataset facenet [20170512-110547](https://drive.google.com/file/d/0B5MzpY9kBtDVZ2RpVDYwWmxoSUk) dan simpan di foldern utama (FR_IoT).<br>
+  * Download dataset facenet [20170512-110547](https://drive.google.com/file/d/0B5MzpY9kBtDVZ2RpVDYwWmxoSUk) dan simpan di folder utama (alfa).<br>
   * Biarkan nama folder dan sub folder nya (20170512-110547)<br>
   * Masukkan Data foto ke dalam folder ids dan buat sub folder dengan nama custom (nama custom ini yang akan muncul di frame vidio streaming)<br>
 ### Contoh
@@ -25,6 +26,7 @@ Automation Lock With Face Recognition
 │   │   ├── Nurdin0.png
 │   │   ├── Nurdin1.png
 ```
+
 ## Cara Menjalankan:
 * masukan command `sh run.sh ids` di folder utama
 
@@ -45,6 +47,6 @@ Automation Lock With Face Recognition
 ├── detect_and_align.py
 ├── main.py
 ├── README.md
-├── requirements.txt
 ├── run.sh
 ```
+
